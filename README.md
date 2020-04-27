@@ -1,15 +1,15 @@
 # Fitness Tracker
 
-A workout tracker by creating Mongo database with a Mongoose schema and handle routes with Express.
+> A workout tracker by creating Mongo database with a Mongoose schema and handle routes with Express.
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-## User Story
+## Installation
 
-As a user, I want to be able to view create and track daily workouts.
+Install dependencies then:
+```sh
+npm start
+```
 
-## Business Context
-
-A consumer will reach their fitness goals quicker when they track their workout progress.
-
-# Created with
-
-Node.js | MongoDB | Mongoose
+Created with: Node.js | MongoDB | Mongoose | Express.js
