@@ -14,5 +14,5 @@ npm start
 
 Created with: Node.js | MongoDB | Mongoose | Express.js
 
-![Employee Tracker](fitness_tracker.gif)
+![Fitness Tracker](fitness_tracker.gif)
 
