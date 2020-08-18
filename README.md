@@ -6,7 +6,7 @@
 
 ## Installation
 
-Install dependencies then:
+Install dependencies then start app:
 
 ```sh
 npm install
@@ -18,4 +18,3 @@ npm start
 ## Built with: 
 
   Node.js | MongoDB | Mongoose | Express.js
-
